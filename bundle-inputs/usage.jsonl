@@ -1,0 +1,12 @@
+{"agent_id":"54e38bae-2180-48c1-87da-e2897a69db91","message_id":"be7505c7-4cca-6db0-0419-83adae252c2f","created_at":1795598077,"input_tokens":4859473,"output_tokens":49296,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"54e38bae-2180-48c1-87da-e2897a69db91","message_id":"ff9916a5-f7ee-2892-f851-071aca3afa66","created_at":1795597687,"input_tokens":216781,"output_tokens":326,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"06d178e0-90c6-40f4-97e3-a9a1a3028f51","message_id":"295958d4-1c27-400b-bd8b-0f59292114ea","created_at":1795597686,"input_tokens":189629,"output_tokens":16826,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"1e99e4a6-c4e1-4335-82f9-0a6a2c277be2","message_id":"eb22d40a-3a4d-4f24-a2dd-d911a0f27926","created_at":1795597685,"input_tokens":644649,"output_tokens":14905,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"2db3e6b7-fd5e-4dc6-9bcb-bab09a038ef0","message_id":"86c79e65-a142-44f3-824e-98c185dd916a","created_at":1795597679,"input_tokens":520093,"output_tokens":14786,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"54e38bae-2180-48c1-87da-e2897a69db91","message_id":"9dc763d2-2729-f809-d8ce-669f48d4fc50","created_at":1795597570,"input_tokens":7121757,"output_tokens":95899,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"1bfc6159-1892-482b-bf12-f6f7175b2c4d","message_id":"f085a645-df79-4507-a598-e052f1a89396","created_at":1795596853,"input_tokens":517732,"output_tokens":31543,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"54e38bae-2180-48c1-87da-e2897a69db91","message_id":"9c0404c5-6a0e-5ec0-31f9-aceff94dbc02","created_at":1795596774,"input_tokens":90250,"output_tokens":392,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"dd60dfa9-ee5e-4ede-825c-38eef7a9fd26","message_id":"59e485d6-5002-4257-907b-5f79698ba42c","created_at":1795596769,"input_tokens":389583,"output_tokens":21193,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"54e38bae-2180-48c1-87da-e2897a69db91","message_id":"8622ebf7-f700-ae83-0466-3ccadc136dba","created_at":1795596766,"input_tokens":83860,"output_tokens":429,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"337434bc-b1bf-4de8-8c1d-22c517445898","message_id":"280f6802-bc1b-4871-9e24-4fd0cef7039c","created_at":1795596761,"input_tokens":745497,"output_tokens":17815,"model":"ipnext/avocado-5.17-v2"}
+{"agent_id":"54e38bae-2180-48c1-87da-e2897a69db91","message_id":"1291e736-8e58-46ed-ab67-ff49f640fd7e","created_at":1795596631,"input_tokens":7605969,"output_tokens":71991,"model":"ipnext/avocado-5.17-v2"}
